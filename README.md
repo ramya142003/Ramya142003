@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batchu Ramya</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Machine Learning Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya142003&label=Profile%20views&color=0e75b6&style=flat" alt="ramya142003" /> </p>
